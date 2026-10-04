@@ -1,0 +1,11 @@
+Metric,VM,Container,Difference
+CPU Performance,,,
+Memory Performance,,,
+Sequential Read,,,
+Sequential Write,,,
+Random Read,,,
+Random Write,,,
+Network Throughput,,,
+Startup Time,,,
+API Requests/sec,,,
+API Latency,,,

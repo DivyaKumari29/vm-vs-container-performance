@@ -1,0 +1,8 @@
+VM Configuration
+
+Hypervisor: VMware Workstation
+Guest OS: Ubuntu 22.04.5 LTS
+CPU: 4 vCPUs
+Memory: 8 GB
+Virtual Disk: 60 GB
+Network: NAT

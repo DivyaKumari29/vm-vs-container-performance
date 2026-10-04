@@ -1,0 +1,1 @@
+VM startup time: 405 ms

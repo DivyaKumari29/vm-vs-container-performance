@@ -1,0 +1,9 @@
+environment,workload,bandwidth,unit
+vm,seq-read,887.0,MiB/s
+vm,seq-write,1178.0,MiB/s
+vm,random-read,20.7,MiB/s
+vm,random-write,18.3,MiB/s
+container,seq-read,811.0,MiB/s
+container,seq-write,851.0,MiB/s
+container,random-read,18.2,MiB/s
+container,random-write,21.2,MiB/s

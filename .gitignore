@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+
+__pycache__/
+*.pyc
+venv/
+.env/
+*.log
+*.vmdk
+*.vdi
+*.vbox
+*.ova
+*.iso
+.DS_Store
